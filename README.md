@@ -1,4 +1,4 @@
-Fist Version GS66 Tools Flash
+Fist Version HuangOS Tools Flash
 
 <!---
 QuaWuy/QuaWuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
